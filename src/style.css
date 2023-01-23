@@ -1,0 +1,25 @@
+#tree {
+    font-family: Arial, sans-serif;
+  }
+  
+  #tree ul {
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+
+  }
+  span{
+    top: 200px;
+  }
+  
+  #tree li {
+    margin: 0 0 0 20px;
+    padding: 5px 0;
+  }
+  
+  #tree .add-category {
+    margin-left: 75rem;
+  }
+
+  
+  
